@@ -1,0 +1,2 @@
+# ONERA-Project-Shape-Optimization-for-Drag-Reduction
+Project made in a group of 5 as a part of the lesson "High-Performance Computing for footprint reduction" at the school CentraleSupélec. The project, formulated and supervised by Juliet Ryan from the ONERA, the french aersopace agency, was about the "Shape optimization of a wingtip for drag reduction". It involves solving the Navier-Stokes over the domain, creating a normal field over it and optimising the original shape using a gradient descent.
